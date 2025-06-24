@@ -1,18 +1,18 @@
-# 🚀 Big Data Product Analysis with PySpark
+# Big Data Product Analysis with PySpark
 
 This project leverages Apache Spark (PySpark) to perform large-scale data analysis on product-related data using both RDD and DataFrame APIs.
 
-## 📁 Project Structure
+## Project Structure
 
 - `BIG_DATA_project_2 (1).ipynb`: Jupyter notebook containing PySpark setup, data loading, RDD/DataFrame transformations, and visualizations.
 
-## 📊 Dataset
+## Dataset
 
 - **Filename**: `product.csv`
 - **Source**: Google Drive (mounted in Colab)
 - **Content**: Product-level sales or inventory data
 
-## 🧠 Objectives
+##  Objectives
 
 - Load product data using Spark DataFrame
 - Convert DataFrame to RDD and explore RDD transformations
@@ -28,13 +28,13 @@ This project leverages Apache Spark (PySpark) to perform large-scale data analys
 - `pandas`, `numpy` – Data manipulation
 - `matplotlib`, `seaborn` – Visualizations
 
-## 📌 Highlights
+##  Highlights
 
 - Efficient data processing using PySpark on large datasets
 - Demonstrates the difference between RDD and DataFrame usage
 - Visual insight into product distribution and metrics
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open in Google Colab or local Jupyter environment with PySpark:
    ```bash
@@ -45,4 +45,4 @@ This project leverages Apache Spark (PySpark) to perform large-scale data analys
 
 ---
 
-📊 *Built for scalable data analysis using Spark*
+*Built for scalable data analysis using Spark*
