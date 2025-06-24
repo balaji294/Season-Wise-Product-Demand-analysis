@@ -20,7 +20,7 @@ This project leverages Apache Spark (PySpark) to perform large-scale data analys
 - Generate basic summaries and statistics
 - Visualize key trends using `matplotlib` and `seaborn`
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - `PySpark` – Distributed data processing
 - `RDD` – Low-level resilient distributed dataset operations
